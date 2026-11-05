@@ -3,6 +3,7 @@
 
 **Description**:
 When bratty 8-year-old Kevin McCallister acts out the night before a family trip to Paris, his mother makes him sleep in the attic. After the McCallisters mistakenly leave for the airport without Kevin, he awakens to an empty house and assumes his wish to have no family has come true. But his excitement sours when he realizes that two con men plan to rob the McCallister residence, and that he alone must protect the family home
+
 |  | Description |
 | ----------- | ----------- |
 | Title | Home Alone |
@@ -19,6 +20,7 @@ When bratty 8-year-old Kevin McCallister acts out the night before a family trip
 
 **Description**:
 One Piece Film: Red is a 2022 Japanese animated musical fantasy-action adventure film directed by Gorō Taniguchi and produced by Toei Animation, with series creator Eiichiro Oda serving as executive producer and supervisor. It is the 15th feature film in the One Piece franchise, released to celebrate the anime's 25th anniversary.
+
 |  | Description |
 | ----------- | ----------- |
 | Title | One Piece Film: Red |
@@ -38,6 +40,7 @@ One Piece Film: Red centers on Uta, the world's most beloved pop diva, who revea
 <img width="466" height="657" alt="image" src="https://github.com/user-attachments/assets/5c298411-1398-43f6-ad58-12b283a550e0" />
 
 **Description**: After the tragic sacrifice of Demon Slayer Corps leader Kagaya Ubuyashiki, Tanjiro Kamado, Zenitsu Agatsuma, Inosuke Hashibira, and the elite Hashira are plunged into the ever-shifting, boundless maze of the Infinity Castle. Separated and heavily outnumbered, they must fight the remaining Upper Rank demons in a desperate series of final battles while the demon lord Muzan Kibutsuji retreats to the center to heal.
+
 |  | Description |
 | ----------- | ----------- |
 | Title | Demon Slayer: Kimetsu no Yaiba – The Movie: Infinity Castle |
